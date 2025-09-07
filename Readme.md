@@ -1,7 +1,7 @@
 # To-do list
 
 screenshot
-![To-do list](images/todolist.jpg)
+![To-do list](https://github.com/Maciekinit/To-Do__List/blob/main/images/Todolist.jpg?raw=true)
 
 
 ## Table of contents
